@@ -1,19 +1,18 @@
-name: Metrics
+# .github/workflows/medium.yml
+name: Update Medium Articles
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{ cron: "0 12 * * *" }]  # daily
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
-  github-metrics:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Gaurav-Raisinghani
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Phoenix
-          plugins: languages, achievements
-          plugins_languages: yes
-          plugins_achievements: yes
-          output_action: commit
+          feed_list: "https://medium.com/feed/@gauravraisinghani1998"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          disable_item_validation: true
