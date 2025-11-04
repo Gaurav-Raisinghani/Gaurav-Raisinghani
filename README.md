@@ -80,6 +80,11 @@ I’m a **Senior Software Engineer** and **MS Computer Science** student at **Ar
 
 ## 📰 Latest Articles (auto-updated)
 <!-- BLOG-POST-LIST:START -->
+- [Is Dijkstra’s Algorithm Finally Broken? The 2025 Breakthrough That Redefines Shortest Paths](https://medium.com/@gauravraisinghani1998/is-dijkstras-algorithm-finally-broken-the-2025-breakthrough-that-redefines-shortest-paths-60eed0ad0c58?source=rss-76a6b0804371------2)
+- [Unlocking Privacy &amp; Intelligence in Health Insurance Analytics with Homomorphic Encryption and AI](https://medium.com/@gauravraisinghani1998/unlocking-privacy-intelligence-in-health-insurance-analytics-with-homomorphic-encryption-and-ai-0a5b665d7f35?source=rss-76a6b0804371------2)
+- [✨ Transforming Data into Dynamic Narratives with D3.js](https://medium.com/@gauravraisinghani1998/transforming-data-into-dynamic-narratives-with-d3-js-78496bdd18c9?source=rss-76a6b0804371------2)
+- [From Guesswork to Ground Truth: The Planning Poker 2.0 Revolution](https://medium.com/@gauravraisinghani1998/from-guesswork-to-ground-truth-the-planning-poker-2-0-revolution-bde9e8d07d38?source=rss-76a6b0804371------2)
+- [The Onboarding Paradox: Are We Learning or Just Following Tradition?](https://medium.com/@gauravraisinghani1998/the-onboarding-paradox-are-we-learning-or-just-following-tradition-96d0b77ca2f6?source=rss-76a6b0804371------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
