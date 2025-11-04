@@ -1,89 +1,95 @@
-<h1 align="center">Hi, I'm <span style="color:#00BFFF">Gaurav Raisinghani</span> 👋</h1>
-<h3 align="center">🚀 Senior Software Engineer | Cloud-Native Architect | AI & Observability Enthusiast</h3>
+<!-- ======================= HERO ======================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gaurav-Raisinghani/Gaurav-Raisinghani/main/assets/banner.svg" alt="Gaurav Raisinghani — Cloud-Native Backend | Spring | AI & Observability" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-raisinghani">LinkedIn</a> •
-  <a href="https://medium.com/@gauravraisinghani1998">Medium</a> •
-  <a href="mailto:raisinghanii@outlook.com">Email</a> •
-  <a href="https://github.com/Gaurav-Raisinghani">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gaurav+Raisinghani+%F0%9F%91%8B;Senior+Software+Engineer+%7C+ASU+MS+CS;Cloud-Native+Systems+%7C+Spring+Boot+%7C+AI%2FObservability;I+build+systems+that+scale+and+learn.">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-raisinghani"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Raisinghani-blue?logo=linkedin&style=flat-square"/></a> •
+  <a href="https://medium.com/@gauravraisinghani1998"><img src="https://img.shields.io/badge/Medium-@gauravraisinghani1998-black?logo=medium&style=flat-square"/></a> •
+  <a href="mailto:raisinghanii@outlook.com"><img src="https://img.shields.io/badge/Email-raisinghanii%40outlook.com-red?logo=gmail&style=flat-square"/></a>
 </p>
 
 ---
 
 ## 🧠 About Me
+I’m a **Senior Software Engineer** and **MS Computer Science** student at **Arizona State University (GPA 3.95 / 4)** with 3+ years of experience designing **scalable microservices**, **event-driven systems**, and **AI-powered observability**.
 
-I'm a **Senior Software Engineer** and **MS Computer Science** student at **Arizona State University (GPA 3.95/4)**, with over **3 years of professional experience** in building **scalable microservices**, **cloud-native applications**, and **AI-driven observability systems**.
+💡 I specialize in **Spring Boot**, **Kafka**, **Kubernetes**, and **AWS** — building intelligent, high-performance architectures.
 
-I love turning complex systems into simple, performant architectures — whether it's designing Spring-based microservices, automating infrastructure, or integrating AI insights into enterprise systems.
-
-**Core Interests:** Cloud Infrastructure • Spring Boot • Distributed Systems • AI for DevOps • Observability • System Design
+**Focus Areas:**  
+☁️ Cloud Infrastructure 🔁 Microservices Architecture 📈 Observability & Metrics 🧠 AI for Systems
 
 ---
 
-## 🧩 Tech Stack
-
-| Domain             | Technologies                                                   |
-| ------------------ | -------------------------------------------------------------- |
-| **Languages**      | Java, Python, C++, SQL                                         |
-| **Frameworks**     | Spring Boot, Spring Cloud Gateway, Hibernate, JUnit, Kafka     |
-| **Databases**      | Oracle, MongoDB, PostgreSQL, NoSQL                             |
-| **Cloud & DevOps** | AWS (EC2, Lambda, S3, ECR), Docker, Kubernetes, GitHub Actions |
-| **Tools**          | Splunk, Kibana, Datadog, Grafana, PagerDuty, Jira, Confluence  |
-| **Web**            | REST APIs, WebSockets, D3.js, HTML, CSS, JavaScript            |
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,kafka,docker,kubernetes,aws,linux,postgresql,mongodb,git,githubactions,grafana,prometheus,python,js,html,css&perline=9"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-
-| Project                                    | Description                                                           | Stack                              |
-| ------------------------------------------ | --------------------------------------------------------------------- | ---------------------------------- |
-| **ObservaAI**                              | AI-powered observability & visualization platform for Kubernetes.     | Spring Boot, Kafka, React, Grafana |
-| **Spring Cloud Gateway TMS**               | API Gateway for traffic management and security in TMS microservices. | Spring Cloud, JWT, Redis           |
-| **Rich Results SSR Engine**                | SEO enhancement service with server-side schema rendering.            | Spring Boot, JSON-LD, SEO APIs     |
-| **Privacy-Preserving Insurance Analytics** | Encrypted data analytics using federated learning.                    | Kafka, AES-256, Python             |
-| **Interactive D3 Visuals**                 | Dynamic visualizations for real-time analytics dashboards.            | D3.js, HTML, CSS                   |
-
----
-
-## ✍️ Publications & Articles
-
-* 🧩 *[Implementing Spring Cloud Gateway: A Comprehensive Guide](https://medium.com/@gauravraisinghani1998)* — 6,000+ reads
-* 📊 *[Transforming Data into Dynamic Narratives with D3.js](https://medium.com/@gauravraisinghani1998)*
-* 💡 *[Is P = NP? The Million-Dollar Question Reshaping Computer Science](https://medium.com/@gauravraisinghani1998)*
+| Project | Description | Stack |
+|----------|--------------|--------|
+| **ObservaAI** | AI-powered Kubernetes observability & visualization platform | Spring Boot, Kafka, Grafana |
+| **Spring Cloud Gateway TMS** | API Gateway with JWT filters and rate limiting | Spring Cloud, Redis, AWS |
+| **Rich Results SSR Engine** | SEO microservice using SSR and schema automation | Spring Boot, JSON-LD |
+| **Privacy-Preserving Insurance Analytics** | Encrypted analytics via federated learning | Kafka, AES-256, Python |
+| **Interactive D3 Visuals** | Data visualization for dynamic dashboards | D3.js, HTML, CSS |
 
 ---
 
-## 📈 GitHub Stats
-
+## 📊 Live GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Raisinghani&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Raisinghani&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Raisinghani&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav-Raisinghani&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-Raisinghani&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-Raisinghani&theme=react-dark&hide_border=true&radius=8&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-Raisinghani&theme=darkhub&row=1&column=7&no-frame=true&no-bg=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav-Raisinghani&style=flat-square&color=00BFFF" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🎯 Current Focus (2025)
+## ✍️ Top Articles
+- 🧩 [Implementing Spring Cloud Gateway — A Comprehensive Guide](https://medium.com/@gauravraisinghani1998)
+- 📊 [Transforming Data into Dynamic Narratives with D3.js](https://medium.com/@gauravraisinghani1998)
+- 🔐 [Privacy-Preserving Health Insurance Analytics](https://medium.com/@gauravraisinghani1998)
+- 💡 [Is P = NP? The Million-Dollar Question Reshaping Computer Science](https://medium.com/@gauravraisinghani1998)
 
-* 🧠 Building **ObservaAI**, an AI-powered observability platform (Phase 1).
-* ☁️ Experimenting with **AWS Lambda & PaaS** serverless architectures.
-* 📚 Writing advanced Medium guides on **Spring Cloud**, **AI integrations**, and **system design**.
+## 📰 Latest Articles (auto-updated)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🪄 Let’s Connect
+## 🎯 Current Focus
+- 🧠 Building **ObservaAI** (public v2 demo + docs)  
+- ☁️ Scaling microservices with Spring Cloud & K8s  
+- ✍️ Writing on AI for DevOps and observability patterns  
 
-I’m open to collaborations, research, and discussions around cloud platforms, AI-driven systems, and developer tools.
+---
 
-📩 **Email:** [raisinghanii@outlook.com](mailto:raisinghanii@outlook.com)
-🌐 **Medium:** [@gauravraisinghani1998](https://medium.com/@gauravraisinghani1998)
-💼 **LinkedIn:** [gaurav-raisinghani](https://linkedin.com/in/gaurav-raisinghani)
+## 🪄 Connect
+<p align="center">
+  <a href="mailto:raisinghanii@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00BFFF?logo=gmail&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/gaurav-raisinghani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://medium.com/@gauravraisinghani1998"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium&style=for-the-badge"/></a>
+</p>
 
 ---
 
 ### 🧭 Motto
-
-> “Code that scales, systems that learn, and solutions that last.”
+> “Code that scales, systems that learn, and solutions that last.” ✨
