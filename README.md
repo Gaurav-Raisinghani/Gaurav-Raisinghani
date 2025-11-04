@@ -1,26 +1,35 @@
 <!-- ======================= HERO ======================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gaurav-Raisinghani/Gaurav-Raisinghani/main/assets/banner.svg" alt="Gaurav Raisinghani — Cloud-Native Backend | Spring | AI & Observability" width="100%"/>
+  <img src="assets/banner.png" alt="Gaurav Raisinghani Banner" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gaurav+Raisinghani+%F0%9F%91%8B;Senior+Software+Engineer+%7C+ASU+MS+CS;Cloud-Native+Systems+%7C+Spring+Boot+%7C+AI%2FObservability;I+build+systems+that+scale+and+learn.">
 </p>
 
+<!-- ======================= SOCIALS ======================= -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-raisinghani"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Raisinghani-blue?logo=linkedin&style=flat-square"/></a> •
-  <a href="https://medium.com/@gauravraisinghani1998"><img src="https://img.shields.io/badge/Medium-@gauravraisinghani1998-black?logo=medium&style=flat-square"/></a> •
-  <a href="mailto:raisinghanii@outlook.com"><img src="https://img.shields.io/badge/Email-raisinghanii%40outlook.com-red?logo=gmail&style=flat-square"/></a>
+  <a href="mailto:raisinghanii@outlook.com">
+    <img src="https://img.shields.io/badge/Email-raisinghanii%40outlook.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gaurav-raisinghani">
+    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Raisinghani-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@gauravraisinghani1998">
+    <img src="https://img.shields.io/badge/Medium-%40gauravraisinghani1998-22D3EE?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
-I’m a **Senior Software Engineer** and **MS Computer Science** student at **Arizona State University (GPA 3.95 / 4)** with 3+ years of experience designing **scalable microservices**, **event-driven systems**, and **AI-powered observability**.
+I’m a **Senior Software Engineer** and **MS Computer Science** student at **Arizona State University (GPA 3.95 / 4)** with 3 + years of experience building **scalable microservices**, **event-driven systems**, and **AI-powered observability**.
 
 💡 I specialize in **Spring Boot**, **Kafka**, **Kubernetes**, and **AWS** — building intelligent, high-performance architectures.
 
-**Focus Areas:**  
+**Focus Areas**  
 ☁️ Cloud Infrastructure 🔁 Microservices Architecture 📈 Observability & Metrics 🧠 AI for Systems
 
 ---
@@ -35,11 +44,11 @@ I’m a **Senior Software Engineer** and **MS Computer Science** student at **Ar
 ## 🚀 Featured Projects
 | Project | Description | Stack |
 |----------|--------------|--------|
-| **ObservaAI** | AI-powered Kubernetes observability & visualization platform | Spring Boot, Kafka, Grafana |
-| **Spring Cloud Gateway TMS** | API Gateway with JWT filters and rate limiting | Spring Cloud, Redis, AWS |
-| **Rich Results SSR Engine** | SEO microservice using SSR and schema automation | Spring Boot, JSON-LD |
-| **Privacy-Preserving Insurance Analytics** | Encrypted analytics via federated learning | Kafka, AES-256, Python |
-| **Interactive D3 Visuals** | Data visualization for dynamic dashboards | D3.js, HTML, CSS |
+| **ObservaAI** | AI-powered Kubernetes observability & visualization platform | Spring Boot · Kafka · Grafana |
+| **Spring Cloud Gateway TMS** | API Gateway with JWT filters and rate limiting | Spring Cloud · Redis · AWS |
+| **Rich Results SSR Engine** | SEO microservice using SSR & schema automation | Spring Boot · JSON-LD |
+| **Privacy-Preserving Analytics** | Encrypted analytics via federated learning | Kafka · AES-256 · Python |
+| **Interactive D3 Visuals** | Data visualization for dynamic dashboards | D3.js · HTML · CSS |
 
 ---
 
@@ -84,9 +93,17 @@ I’m a **Senior Software Engineer** and **MS Computer Science** student at **Ar
 
 ## 🪄 Connect
 <p align="center">
-  <a href="mailto:raisinghanii@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00BFFF?logo=gmail&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/gaurav-raisinghani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="https://medium.com/@gauravraisinghani1998"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium&style=for-the-badge"/></a>
+  <a href="mailto:raisinghanii@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gaurav-raisinghani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@gauravraisinghani1998">
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-22D3EE?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 ---
