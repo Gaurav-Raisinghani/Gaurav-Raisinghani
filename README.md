@@ -44,11 +44,11 @@ I’m a **Senior Software Engineer** and **MS CS** student at **Arizona State Un
 
 ---
 
-## 📊 GitHub Metrics (clean theme)
-<p align="center">
+## 📊 GitHub Metrics
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Raisinghani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav-Raisinghani&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Raisinghani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
