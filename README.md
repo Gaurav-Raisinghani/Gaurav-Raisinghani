@@ -66,7 +66,7 @@ I’m a **Senior Software Engineer** and **MS CS** student at **Arizona State Un
 - 🔐 [Privacy-Preserving Health Insurance Analytics](https://medium.com/@gauravraisinghani1998)
 - 💡 [Is P = NP? The Million-Dollar Question Reshaping Computer Science](https://medium.com/@gauravraisinghani1998)
 
-## 📰 Latest Articles (auto-updated)
+## 📰 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Is Dijkstra’s Algorithm Finally Broken? The 2025 Breakthrough That Redefines Shortest Paths](https://medium.com/@gauravraisinghani1998/is-dijkstras-algorithm-finally-broken-the-2025-breakthrough-that-redefines-shortest-paths-60eed0ad0c58?source=rss-76a6b0804371------2)
 - [Unlocking Privacy &amp; Intelligence in Health Insurance Analytics with Homomorphic Encryption and AI](https://medium.com/@gauravraisinghani1998/unlocking-privacy-intelligence-in-health-insurance-analytics-with-homomorphic-encryption-and-ai-0a5b665d7f35?source=rss-76a6b0804371------2)
