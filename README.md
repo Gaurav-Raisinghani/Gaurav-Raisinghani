@@ -20,7 +20,7 @@
 ---
 
 ## 🧠 About Me
-I’m a **Senior Software Engineer** and **MS CS** student at **Arizona State University (GPA 3.95/4)** with 3+ years building **scalable microservices**, **event-driven systems**, and **AI-powered observability**.
+I’m a **Senior Software Engineer** and **MS CS** student at **Arizona State University (GPA 3.7/4)** with 3+ years building **scalable microservices**, **event-driven systems**, and **AI-powered observability**.
 
 **Focus Areas:** Cloud Infrastructure · Microservices · Observability & Metrics · AI for Systems
 
